@@ -1,4 +1,4 @@
-admins=["Alsaiyh", "Ali", "Osama", "Raghad","Fatima", "Sameh", "Samera" ]
+admins=["John", "Emma", "Micheal", "Sophia","David", "Olivia", "James"
 name=input("Please Type Your Name:-").capitalize().replace(" ","")
 if name in admins:
     print(f"Hello {name}")
